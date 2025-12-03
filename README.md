@@ -1,1 +1,1 @@
-# SVM-KELULUSAN
+# SVM-Klasifikasi-Kelulusan-Mahasiswa
